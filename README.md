@@ -3,5 +3,5 @@ Animated scale model of the Earth, a Halo (from the game), a Culture Orbital (Ia
 
 Textures:
 * Earth: NASA, therefore Public Domain
-* Halo, Orbital, Ringworld: Photoshop's "Clouds" and "Difference Clouds"
+* Halo, Orbital, Ringworld: Simple use of the "Clouds" and "Difference Clouds" tools in Photoshop
 * Stellar background: NASA, therefore Public Domain (and if I remember correctly, from this URL: https://svs.gsfc.nasa.gov/3895)
