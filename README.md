@@ -5,3 +5,6 @@ Textures:
 * Earth: NASA, therefore Public Domain
 * Halo, Orbital, Ringworld: Simple use of the "Clouds" and "Difference Clouds" tools in Photoshop
 * Stellar background: NASA, therefore Public Domain (and if I remember correctly, from this URL: https://svs.gsfc.nasa.gov/3895)
+
+# Usage
+Put it in a web server and visit the index.html page. **MUST BE ON A SERVER** instead of localhost, because browsers refuse to allow JavaScript to load localhost files.
