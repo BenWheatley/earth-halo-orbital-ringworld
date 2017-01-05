@@ -8,3 +8,7 @@ Textures:
 
 # Usage
 Put it in a web server and visit the index.html page. **MUST BE ON A SERVER** instead of localhost, because browsers refuse to allow JavaScript to load localhost files.
+
+# See also
+Used to render this YouTube video (music and titles were added later):
+[![Megastructures: Size comparison](http://img.youtube.com/vi/JvKSRKT0nzM/0.jpg)](http://www.youtube.com/watch?v=JvKSRKT0nzM "Megastructures: Size comparison")
